@@ -31,17 +31,6 @@ TestNG
 Firefox + GeckoDriver
 Gradle (build tool)
 
-📁 Struktur Folder
-src
- └── test
-      ├── java
-      │    └── CheckoutTest.java
-      └── resources
-           └── testng.xml
-driver
- └── geckodriver.exe
-build.gradle
-README.md
 
 ▶ Cara Menjalankan Test
 1️⃣ Pastikan Java & Gradle terinstall
@@ -56,4 +45,5 @@ gradle -version
 
 
 Test akan otomatis menjalankan file testng.xml.
+
 
